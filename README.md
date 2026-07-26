@@ -144,7 +144,7 @@ For project inquiries, software development, or business collaborations, feel fr
 |----------|---------|
 | Website | https://innovativeais.com |
 | Email | info@innovativeais.com |
-| LinkedIn | https://www.linkedin.com/company/innovative-ai-solution-475489323](https://www.linkedin.com/in/innovative-ai-solution-475489323/ |
+| LinkedIn | [https://www.linkedin.com/company/innovative-ai-solution-475489323](https://www.linkedin.com/in/innovative-ai-solution-475489323/](https://www.linkedin.com/in/innovative-ai-solution-475489323/) |
 
 ---
 
