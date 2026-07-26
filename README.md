@@ -4,7 +4,8 @@
 
 ### Smart HR & Workforce Management System
 
-<img src="./shivlal-manpower.png" alt="Shivlal Manpower Dashboard" width="700"/>
+"<img width="1892" height="907" alt="image" src="https://github.com/user-attachments/assets/78e2e821-bdf6-4766-ad65-b2fce89a80d2" />
+
 
 <br>
 
